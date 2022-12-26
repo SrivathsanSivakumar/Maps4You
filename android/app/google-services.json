@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044576079445",
+    "project_id": "maps4you-98472",
+    "storage_bucket": "maps4you-98472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044576079445:android:07e07454733fc37cdc4edc",
+        "android_client_info": {
+          "package_name": "com.example.waze_link_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044576079445-oai9vbr8191ckaav5g967egm9a9h5g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38RHNIgiJcH2FkgbIg3_kcGuXeuMrUc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044576079445-oai9vbr8191ckaav5g967egm9a9h5g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

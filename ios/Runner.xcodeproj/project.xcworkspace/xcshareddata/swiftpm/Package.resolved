@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OnPasteboardChange",
+        "repositoryURL": "https://github.com/kyle-n/OnPasteboardChange",
+        "state": {
+          "branch": "main",
+          "revision": "56da3a9f6be340698f4516b25dda09cff952214a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+PODS:
+  - external_app_launcher (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - geocoding (1.0.5):
+    - Flutter
+  - receive_sharing_intent (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - external_app_launcher (from `.symlinks/plugins/external_app_launcher/ios`)
+  - Flutter (from `Flutter`)
+  - geocoding (from `.symlinks/plugins/geocoding/ios`)
+  - receive_sharing_intent (from `.symlinks/plugins/receive_sharing_intent/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+EXTERNAL SOURCES:
+  external_app_launcher:
+    :path: ".symlinks/plugins/external_app_launcher/ios"
+  Flutter:
+    :path: Flutter
+  geocoding:
+    :path: ".symlinks/plugins/geocoding/ios"
+  receive_sharing_intent:
+    :path: ".symlinks/plugins/receive_sharing_intent/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  external_app_launcher: ad55ac844aa21f2d2197d7cec58ff0d0dc40bbc0
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  geocoding: 32cfcdb16d38d907caaba65e2e42ad10d38bee58
+  receive_sharing_intent: c0d87310754e74c0f9542947e7cbdf3a0335a3b1
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+
+PODFILE CHECKSUM: 18d488b149572a3fca2a183d40767cbd0af0b980
+
+COCOAPODS: 1.11.3
