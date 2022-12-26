@@ -25,7 +25,7 @@ There are two ways to use the app:
 
 1. **Share a link from Google Maps directly**: This is demonstrated in the [gif](#about) above. For any location, hit the share button and select Maps4You, and you will get a pop-up box asking where you'd like to open that location. 
 
-2. **Share a link manually**: Utilize the text bar under _Manual Activity_ in the app to paste in a Google Maps link. This will also provide you with the same pop-up box asking where'd you like to open that location. 
+2. **Share a link manually**: Utilize the text bar under _Manual Activity_ in the app to paste in a Google Maps link. This will also provide you with the same pop-up box asking where you would like to open that location. 
 
 ## File Description and Dependencies
 - Most of the code is written in Dart and a bit of Swift (to enable sharing a location from Google Maps directly to the app) .
